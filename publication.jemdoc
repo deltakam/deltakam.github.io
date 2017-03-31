@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications
+
+. Kwang-Sung Jun, Francesco Orabona, Rebecca Willett, and Stephen Wright.
+  "*Improved Strongly Adaptive Online Learning using Coin Betting*".  
+  In AISTATS, 2017.
+  [https://arxiv.org/abs/1610.04578 \[arxiv\]]
+. Kwang-Sung Jun and Robert Nowak.
+  "*Graph-Based Active Learning: A New Look at Expected Error Minimization*".
+  In IEEE GlobalSIP Symposium on Non-Commutative Theory and Applications, 2016. 
+  [https://arxiv.org/abs/1609.00845 \[arxiv\]]
+. Jeffrey Zemla, Yoed Kenett, Kwang-Sung Jun, and Joseph Austerweil.
+  "*U-INVITE: Estimating Individual Semantic Networks from Fluency Data*".
+  In Proceedings of the 38th Annual Meeting of the Cognitive Science Society, 2016. 
+. Kwang-Sung Jun and Robert Nowak.
+  "*Anytime Exploration for Multi-armed Bandits using Confidence Information*".
+  In ICML, 2016. 
+  [http://jmlr.org/proceedings/papers/v48/jun16.pdf \[pdf\]]
+. Kwang-Sung Jun, Kevin Jamieson, Rob Nowak, and Xiaojin Zhu.
+  "*Top arm identification in multi-armed bandits with batch arm pulls*". 
+  In AISTATS, 2016.
+  [http://jmlr.org/proceedings/papers/v51/jun16-supp.pdf \[pdf\]]
+. Kwang-Sung Jun, Xiaojin Zhu, Timothy Rogers, Zhuoran Yang, and Ming Yuan. 
+  "*Human memory search as initial-visit emitting random walk*". 
+  In NIPS, 2015.
+  [http://pages.cs.wisc.edu/~jerryzhu/pub/out-rw-flag.pdf \[pdf\]]
+. Kayla Jacobs, Kwang-Sung Jun, Nathan Lieby, and Elena Eneva. 
+  "*Smarter Crisis Crowdsourcing*". 
+  In ACM SIGKDD Workshop on Data Science for Social Good, 2014. 
+  [http://dssg.uchicago.edu/kddworkshop/papers/jacobs.pdf \[pdf\]]
+. Kwang-Sung Jun, Xiaojin Zhu, Burr Settles, and Timothy Rogers.
+  "*Learning from Human-Generated Lists*". 
+  In ICML, 2013. 
+  [http://pages.cs.wisc.edu/~jerryzhu/pub/SWIRL.pdf  \[pdf\]]
+  [./data/swirl_code_data_v2.zip \[code&data\]] # TODO: let's ensure the data is here
+  [http://www.youtube.com/watch?v=V4TDynR2gPQ \[video\]]
+. Michael Maynord, Jitrapon Tiachunpun, Xiaojin Zhu, Charles R. Dyer, Kwang-Sung Jun, and Jake Rosin. 
+  "*An Image-To-Speech iPad App*". 
+  Department of Computer Sciences Technical Report TR1774, University of Wisconsin-Madison, 2012.
+. Jun-Ming Xu, Kwang-Sung Jun, Xiaojin Zhu, and Amy Bellmore.
+  "*Learning from bullying traces in social media*". 
+  In NAACL HLT, 2012.
+  [http://pages.cs.wisc.edu/~jerryzhu/pub/naaclhlt2012.pdf \[pdf\]]
+. Bryan Gibson, Kwang-Sung Jun, and Xiaojin Zhu. 
+  "*With a little help from the computer: Hybrid human-machine systems on bandit problems*".
+  In NIPS Workshop on Computational Social Science and the Wisdom of Crowds, 2010. 
+  [href=https://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/gibson.pdf \[pdf\]]
+. Xiaojin Zhu, Bryan R. Gibson, Kwang-Sung Jun, Timothy T. Rogers, Joseph Harrison, and Chuck Kalish. 
+  "*Cognitive models of test-item effects in human category learning*". 
+  In ICML, 2010.
+  [http://pages.cs.wisc.edu/~jerryzhu/pub/tie.pdf \[pdf\]]
+
