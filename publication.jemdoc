@@ -10,14 +10,15 @@
   In AISTATS, 2017.
   *Oral presentation*.
   [http://proceedings.mlr.press/v54/jun17a.html \[official\]]
-  [https://arxiv.org/abs/1610.04578 \[arxiv(same)\]]
+  [https://arxiv.org/abs/1610.04578 \[arxiv\]]
 . Kwang-Sung Jun and Robert Nowak.
   "*Graph-Based Active Learning: A New Look at Expected Error Minimization*".
   In IEEE GlobalSIP Symposium on Non-Commutative Theory and Applications, 2016. 
-  [https://arxiv.org/abs/1609.00845 \[arxiv\]]
+  [http://ieeexplore.ieee.org/document/7906056/ \[ieee\]][https://arxiv.org/abs/1609.00845 \[arxiv\]]
 . Jeffrey Zemla, Yoed Kenett, Kwang-Sung Jun, and Joseph Austerweil.
   "*U-INVITE: Estimating Individual Semantic Networks from Fluency Data*".
   In Proceedings of the 38th Annual Meeting of the Cognitive Science Society, 2016. 
+  [https://alab.psych.wisc.edu/papers/files/Zemlaetal2016.pdf \[pdf\]]
 . Kwang-Sung Jun and Robert Nowak.
   "*Anytime Exploration for Multi-armed Bandits using Confidence Information*".
   In ICML, 2016. 
@@ -33,7 +34,7 @@
 . Kayla Jacobs, Kwang-Sung Jun, Nathan Lieby, and Elena Eneva. 
   "*Smarter Crisis Crowdsourcing*". 
   In ACM SIGKDD Workshop on Data Science for Social Good, 2014. 
-  [http://dssg.uchicago.edu/kddworkshop/papers/jacobs.pdf \[pdf\]]
+  [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.664.29&rep=rep1&type=pdf \[pdf\]]
 . Kwang-Sung Jun, Xiaojin Zhu, Burr Settles, and Timothy Rogers.
   "*Learning from Human-Generated Lists*". 
   In ICML, 2013. 
@@ -50,7 +51,7 @@
 . Bryan Gibson, Kwang-Sung Jun, and Xiaojin Zhu. 
   "*With a little help from the computer: Hybrid human-machine systems on bandit problems*".
   In NIPS Workshop on Computational Social Science and the Wisdom of Crowds, 2010. 
-  [href=https://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/gibson.pdf \[pdf\]]
+  [https://people.cs.umass.edu/~wallach/workshops/nips2010css/papers/gibson.pdf \[pdf\]]
 . Xiaojin Zhu, Bryan R. Gibson, Kwang-Sung Jun, Timothy T. Rogers, Joseph Harrison, and Chuck Kalish. 
   "*Cognitive models of test-item effects in human category learning*". 
   In ICML, 2010.
