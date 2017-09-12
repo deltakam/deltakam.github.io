@@ -1,9 +1,10 @@
 # jemdoc: menu{MENU}{publication.html}
+# jemdoc: analytics{UA-106338466-1}
 = Publications
 
 . Kwang-Sung Jun, Aniruddha Bhargava, Robert Nowak, and Rebecca Willett.
   "*Scalable Generalized Linear Bandits: Online Computation and Hashing*".
-  Arxiv preprint, 2017.
+  In NIPS, 2017.
   [https://arxiv.org/abs/1706.00136 \[arxiv\]]
 . Kwang-Sung Jun, Francesco Orabona, Rebecca Willett, and Stephen Wright.
   "*Improved Strongly Adaptive Online Learning using Coin Betting*".  
