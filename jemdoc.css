@@ -1,16 +1,30 @@
 /* Default css file for jemdoc. */
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans'); /* safe */
+@import url('https://fonts.googleapis.com/css?family=Lato'); /* grade A */
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
 table#tlayout {
     border: none;
     border-collapse: separate;
     background: white;
+    margin: auto;
+/*    font-family: "Times New Roman", Times, serif; */
+/*    font-family: 'Open Sans', sans-serif;*/
+/*    font-family: 'Open Sans'; */
+    font-family: 'Lato', serif;
+    color: #303030;
 }
 
 body {
 	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
-	margin: 0;
+	margin: 0; 
 }
 
 #layout-menu {
@@ -39,6 +53,7 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+    max-width: 840px;
 }
 
 #layout-menu a {
@@ -56,7 +71,8 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+/*	color: #224b8d; */
+  color: #0074d9;
 	text-decoration: none;
 }
 
