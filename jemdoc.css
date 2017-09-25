@@ -1,6 +1,6 @@
 /* Default css file for jemdoc. */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans'); /* safe */
-@import url('https://fonts.googleapis.com/css?family=Lato:400,900'); /* grade A */
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900'); /* grade A , use 400,700 for less boldfacing*/
 @import url('https://fonts.googleapis.com/css?family=Arvo');
 @import url('https://fonts.googleapis.com/css?family=Vollkorn');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
