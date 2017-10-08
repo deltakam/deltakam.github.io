@@ -2,10 +2,13 @@
 # jemdoc: analytics{UA-106338466-1}
 = Publications
 
-.  *Scalable Generalized Linear Bandits: Online Computation and Hashing*.{{</br>
-   <font color=c36241>Kwang-Sung Jun</font>}}, Aniruddha Bhargava, Robert Nowak, and Rebecca Willett.{{</br>}} 
+. *Scalable Generalized Linear Bandits: Online Computation and Hashing*.{{</br>
+   <font color=c36241>Kwang-Sung Jun</font>}}, Aniruddha Bhargava, Robert Nowak, and Rebecca Willett.{{</br>}}
   In Neural Information Processing Systems (*NIPS*), 2017.
   [https://arxiv.org/abs/1706.00136 \[arxiv\]]
+. *Identifying Multiple Authors in a Binary Program*.{{</br>}}
+  Xiaozhu Meng, Barton P. Miller, and {{<font color=c36241>Kwang-Sung Jun</font>}}. {{</br>}}
+  In European Symposium on Research in Computer Security (ESORICS),  2017.
 . *Improved Strongly Adaptive Online Learning using Coin Betting*.{{</br>
   <font color=c36241>Kwang-Sung Jun</font>}}, Francesco Orabona, Rebecca Willett, and Stephen Wright.{{</br>}}
   In International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2017.  {{<font color="red"><b>Oral presentation</b></font>}}.
