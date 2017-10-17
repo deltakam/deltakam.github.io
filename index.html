@@ -31,27 +31,98 @@ try {
 <div id="subtitle"></div>
 </div>
 <table class="imgtable"><tr><td>
-<img src="./imgs/kwang-sung_jun_pic_2.jpg" alt="profile_pic" width="300px" height="HEIGHTpx" />&nbsp;</td>
-<td align="left"></td></tr></table>
-<p>I am a post-doc supervised by Professors <a href="http://willett.ece.wisc.edu/">Rebecca Willett</a>, <a href="http://pages.cs.wisc.edu/~swright/">Stephen Wright</a>, and <a href="http://nowak.ece.wisc.edu">Robert Nowak</a> at UW-Madison <a href="https://discovery.wisc.edu/">Wisconsin Institute for Discovery</a> under optimization theme. 
-My research interest is multi-armed bandits, online learning, and active learning.</p>
-<p>I received my PhD in 2015 under the supervision of Professor <a href="http://pages.cs.wisc.edu/~jerryzhu/">Xiaojin (Jerry) Zhu</a> at University of Wisconsin-Madison. 
-I obtained B.E. from School of Computing with a minor in mathematics at Soongsil University in South Korea. </p>
+<img src="./imgs/kwang-sung_jun_pic_2.jpg" alt="profile_pic" width="240px" height="HEIGHTpx" />&nbsp;</td>
+<td align="left"><p>I am a post-doc supervised by Professors <a href="http://willett.ece.wisc.edu/">Rebecca Willett</a>, <a href="http://pages.cs.wisc.edu/~swright/">Stephen Wright</a>, and <a href="http://nowak.ece.wisc.edu">Robert Nowak</a> at UW-Madison <a href="https://discovery.wisc.edu/">Wisconsin Institute for Discovery</a> under optimization theme. 
+I received my PhD in 2015 at University of Wisconsin-Madison, advised by <a href="http://pages.cs.wisc.edu/~jerryzhu/">Xiaojin (Jerry) Zhu</a>. 
+I obtained a B.S. in computer science with a minor in mathematics from School of Computing, Soongsil University, South Korea. </p>
+<p>My research interest is mainly <i>(i)</i> learning under limited feedback (<b>multi-armed bandit</b>), and I am also interested in <i>(ii)</i> online learning and <i>(iii)</i> machine learning for understanding humans.</p>
 <p><font color="red">
 <b>I am on the job market targeting to start in Fall 2018. Contact me!</b>
 </font></p>
-<h2>Contact</h2>
 <ul>
-<li><p>E-mail: (kjun å† discovery ∂ø† wisc ∂ø† edu) </p>
+<li><p>E-mail: (kjun å† discovery dø† wisc dø† edu), </p>
 </li>
-<li><p><a href="http://linkedin.com/in/kwangsungjun/">LinkedIn</a></p>
+<li><p><a href="http://linkedin.com/in/kwangsungjun/">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=VgvC7o8AAAAJ&amp;hl=en">Google Scholar</a></p>
 </li>
-<li><p><a href="https://scholar.google.com/citations?user=VgvC7o8AAAAJ&amp;hl=en">Google Scholar</a></p>
+</ul>
+</td></tr></table>
+<h2>Multi-Armed Bandit</h2>
+<p>Multi-armed bandit is a <i>state-less</i> version of the reinforcement learning (RL).
+Still, it turns out that bandit problems are abundant in real-life. 
+Informally speaking, bandits learn to make better decisions over time in a feedback-loop.
+The decisions necessarily affect the feedback information, and the feedback data collected so far is no longer i.i.d.; most traditional learning guarantees do not work.</p>
+<p>Bandits are actively being studied in both <a href="https://arxiv.org/abs/1204.5721">theory</a> and <a href="http://rob.schapire.net/papers/www10.pdf">applications</a> including <a href="https://mwtds.azurewebsites.net/">system implementations</a>. 
+Also, cartoon caption contest of New Yorker is currently using a multi-armed bandit algorithm to efficiently crowdsource caption evaluations!</p>
+<h2>Selected Publications</h2>
+<ol>
+<li><p><b>Scalable Generalized Linear Bandits: Online Computation and Hashing</b>.</br>
+<font color=c36241>Kwang-Sung Jun</font>, Aniruddha Bhargava, Robert Nowak, and Rebecca Willett.</br>
+In Neural Information Processing Systems (<b>NIPS</b>), 2017.
+<a href="https://arxiv.org/abs/1706.00136">[arxiv]</a></p>
+</li>
+<li><p><b>Improved Strongly Adaptive Online Learning using Coin Betting</b>.</br>
+<font color=c36241>Kwang-Sung Jun</font>, Francesco Orabona, Rebecca Willett, and Stephen Wright.</br>
+In International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2017.  <font color="red"><b>Oral presentation</b></font>.
+<a href="http://proceedings.mlr.press/v54/jun17a.html">[official]</a>
+<a href="https://arxiv.org/abs/1610.04578">[arxiv]</a></p>
+</li>
+<li><p><b>Graph-Based Active Learning: A New Look at Expected Error Minimization</b>. </br>
+<font color=c36241>Kwang-Sung Jun</font> and Robert Nowak.</br>
+In IEEE GlobalSIP Symposium on Non-Commutative Theory and Applications, 2016. 
+<a href="http://ieeexplore.ieee.org/document/7906056/">[ieee]</a><a href="https://arxiv.org/abs/1609.00845">[arxiv]</a></p>
+</li>
+<li><p><b>Anytime Exploration for Multi-armed Bandits using Confidence Information</b>.</br>
+<font color=c36241>Kwang-Sung Jun</font> and Robert Nowak.</br>
+In International Conference on Machine Learning (<b>ICML</b>), 2016. 
+<a href="http://jmlr.org/proceedings/papers/v48/jun16.pdf">[pdf]</a></p>
+</li>
+<li><p><b>Top arm identification in multi-armed bandits with batch arm pulls</b>. </br>
+<font color=c36241>Kwang-Sung Jun</font>, Kevin Jamieson, Rob Nowak, and Xiaojin Zhu.</br>
+In International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2016.
+<a href="http://jmlr.org/proceedings/papers/v51/jun16-supp.pdf">[pdf]</a></p>
+</li>
+<li><p><b>Human memory search as initial-visit emitting random walk</b>. </br>
+<font color=c36241>Kwang-Sung Jun</font>, Xiaojin Zhu, Timothy Rogers, Zhuoran Yang, and Ming Yuan. </br>
+In Neural Information Processing Systems (<b>NIPS</b>), 2015.
+<a href="http://pages.cs.wisc.edu/~jerryzhu/pub/out-rw-flag.pdf">[pdf]</a></p>
+</li>
+<li><p><b>Learning from Human-Generated Lists</b>. </br>
+<font color=c36241>Kwang-Sung Jun</font>, Xiaojin Zhu, Burr Settles, and Timothy Rogers.</br> 
+In International Conference on Machine Learning (<b>ICML</b>), 2013. 
+<a href="http://pages.cs.wisc.edu/~jerryzhu/pub/SWIRL.pdf">[pdf]</a>
+<a href="./data/swirl_code_data_v2.zip">[code&amp;data]</a>
+<a href="http://www.youtube.com/watch?v=V4TDynR2gPQ">[video]</a></p>
+</li>
+</ol>
+<h2>Talks</h2>
+<ul>
+<li><p>2017/10: At <a href="http://silo.ece.wisc.edu/web/">SILO</a>, &ldquo;Scalable Generalized Linear Bandits: Online Computation and Hashing&rdquo;. <a href="http://silo.ece.wisc.edu/web/content/seminar/id/243">[abstract]</a></p>
+</li>
+<li><p>2017/04: At <a href="http://www.aistats.org/aistats2017//schedule.html">AISTATS</a>, &ldquo;Improved Strongly Adaptive Online Learning using Coin Betting&rdquo;.</p>
+</li>
+<li><p>2016/03: At <a href="http://silo.ece.wisc.edu/web/">SILO</a>, &ldquo;Top Arm Identification in Multi-Armed Bandits with Batch Arm Pulls&rdquo;. <a href="http://silo.ece.wisc.edu/web/content/seminar/id/198">[abstract &amp; video]</a></p>
+</li>
+<li><p>2016/06: At <a href="http://cpcp.wisc.edu/">CPCP</a> Annual Retreat, &ldquo;Multi-Armed Bandit Algorithms and Applications to Experiment Selection&rdquo;. <a href="http://cpcp.wisc.edu/resources/cpcp-retreat-2016-multi-armed-bandit-algorithms-and-applications-to-experiment-selection-kwang-sung-jun-6-30-2016">[abstract &amp; video]</a></p>
+</li>
+<li><p>2016/03: At <a href="http://eng.ssu.ac.kr/web/eng/edu_a_01_07_a">Soongsil University</a>, two talks on human memory search.</p>
+</li>
+<li><p>2016/06: At <a href="http://icml.cc/2016/">ICML</a>, &ldquo;Anytime Exploration for Multi-armed Bandits using Confidence Information&rdquo;. <a href="http://techtalks.tv/talks/anytime-exploration-for-multi-armed-bandits-using-confidence-information/62425/">[video]</a></p>
+</li>
+<li><p>2015/11: At HAMLET (interdisciplinary seminar series at UW-Madison), &ldquo;Measuring semantic structure from verbal fluency data with the initial-visit-emitting (INVITE) random walk&rdquo;.</p>
+</li>
+<li><p>2015/03: At <a href="http://www.ttic.edu/">TTIC</a>, &ldquo;Learning from Human-Generated Lists&rdquo;.</p>
+</li>
+<li><p>2013/06: At <a href="http://icml.cc/2013/?page_id=47">ICML</a>, &ldquo;Learning from Human-Generated Lists&rdquo;. <a href="http://techtalks.tv/talks/learning-from-human-generated-lists/58261/">[video]</a></p>
+</li>
+</ul>
+<h2>Services</h2>
+<ul>
+<li><p>Program Committee / Reviewer: AISTATS&rsquo;18, AAAI&rsquo;18, NIPS&rsquo;17, ICML&rsquo;17, COLT&rsquo;17, AISTATS&rsquo;17, ICML&rsquo;16.</p>
 </li>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2017-10-08 02:30:02 CDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2017-10-17 11:44:11 CDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
