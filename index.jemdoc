@@ -30,7 +30,7 @@ Informally speaking, bandits learn to make better decisions over time in a feedb
 The decisions necessarily affect the feedback information, and the feedback data collected so far is no longer i.i.d.; most traditional learning guarantees do not work.
 
 Bandits are actively being studied in both [https://arxiv.org/abs/1204.5721 theory] and [http://rob.schapire.net/papers/www10.pdf applications] including [https://mwtds.azurewebsites.net/ system implementations]. 
-Also, cartoon caption contest of New Yorker is currently using a multi-armed bandit algorithm to efficiently crowdsource caption evaluations!
+Also, the cartoon caption contest of New Yorker is currently using a multi-armed bandit algorithm to efficiently crowdsource caption evaluations (read this [http://nextml.org/2015/12/04/new-yorker.html article])!
 
 == Selected Publications
 
