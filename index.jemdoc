@@ -6,11 +6,16 @@
 
 ~~~
 {}{img_left}{./imgs/kwang-sung_jun_pic_2.jpg}{profile_pic}{240px}{HEIGHTpx}
+
 I am a post-doc supervised by Professors [http://nowak.ece.wisc.edu Robert Nowak], [http://willett.ece.wisc.edu/ Rebecca Willett], and [http://pages.cs.wisc.edu/~swright/ Stephen Wright] at UW-Madison [https://discovery.wisc.edu/ Wisconsin Institute for Discovery] under optimization theme. 
 I received my PhD in 2015 at University of Wisconsin-Madison, advised by [http://pages.cs.wisc.edu/~jerryzhu/ Xiaojin (Jerry) Zhu]. 
 I obtained a B.S. in computer science with a minor in mathematics from School of Computing, Soongsil University, South Korea. 
 
-My research interest is mainly /(i)/ learning with limited feedback (*multi-armed bandit*); I also work on /(ii)/ machine learning for understanding humans and /(iii)/ online learning under changing environments.
+# My research interest is mainly /(i)/ learning with limited feedback (*multi-armed bandit*); I also work on /(ii)/ machine learning for understanding humans and /(iii)/ online learning under changing environments.
+
+My research focuses on sequential decision-making in feedback loops (i.e., the multi-aremd bandit problem).
+I also work on online optimization and machine learning applied to psychology.
+
 
 {{<font color="red">
 <b>I am on the job market targeting to start in Fall 2018. Contact me!</b>
@@ -18,18 +23,16 @@ My research interest is mainly /(i)/ learning with limited feedback (*multi-arme
 - E-mail: (kjun å† discovery dø† wisc dø† edu), 
 - [./data/kjun-cv-v17.pdf CV], [./data/kjun-rs-v2.pdf Research Statement], [./data/kjun-ts.pdf Teaching Statement]
 - [https://scholar.google.com/citations?user=VgvC7o8AAAAJ&hl=en Google Scholar], [http://linkedin.com/in/kwangsungjun/ LinkedIn]
-
-
 ~~~
 
 == Multi-Armed Bandit
 
 Multi-armed bandit is a /state-less/ version of the reinforcement learning (RL).
-Still, it turns out that bandit problems are abundant in real-life. 
+However, bandits usually enjoy stronger theoretical guarantees and have abundant real-world applications.
 Informally speaking, bandits learn to make better decisions over time in a feedback-loop.
 The decisions necessarily affect the feedback information, and the feedback data collected so far is no longer i.i.d.; most traditional learning guarantees do not work.
 
-Bandits are actively being studied in both [https://arxiv.org/abs/1204.5721 theory] and [http://rob.schapire.net/papers/www10.pdf applications] including [https://mwtds.azurewebsites.net/ system implementations]. 
+Bandits are actively being studied in both [https://arxiv.org/abs/1204.5721 theory] and [http://rob.schapire.net/papers/www10.pdf applications] including [https://mwtds.azurewebsites.net/ deployable web service]. 
 Also, the cartoon caption contest of New Yorker is currently using a multi-armed bandit algorithm to efficiently crowdsource caption evaluations (read this [http://nextml.org/2015/12/04/new-yorker.html article])!
 
 == Selected Publications
