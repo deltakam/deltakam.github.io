@@ -2,6 +2,10 @@
 # jemdoc: analytics{UA-106338466-1}
 = Publications
 
+. *Online Learning for Changing Environments using Coin Betting*.{{</br>
+  <font color=c36241>Kwang-Sung Jun</font>}}, Francesco Orabona, Stephen Wright, Rebecca Willett.{{</br>}}
+  submitted, 2017.
+  [http://arxiv.org/abs/1711.02545 \[arxiv\]]
 . *Scalable Generalized Linear Bandits: Online Computation and Hashing*.{{</br>
    <font color=c36241>Kwang-Sung Jun</font>}}, Aniruddha Bhargava, Robert Nowak, and Rebecca Willett.{{</br>}}
   In Neural Information Processing Systems (*NIPS*), 2017.
@@ -10,7 +14,7 @@
   Xiaozhu Meng, Barton P. Miller, and {{<font color=c36241>Kwang-Sung Jun</font>}}. {{</br>}}
   In European Symposium on Research in Computer Security (ESORICS),  2017.
 . *Improved Strongly Adaptive Online Learning using Coin Betting*.{{</br>
-  <font color=c36241>Kwang-Sung Jun</font>}}, Francesco Orabona, Rebecca Willett, and Stephen Wright.{{</br>}}
+  <font color=c36241>Kwang-Sung Jun</font>}}, Francesco Orabona, Stephen Wright, Rebecca Willett.{{</br>}}
   In International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2017.  {{<font color="red"><b>Oral presentation</b></font>}}.
   [http://proceedings.mlr.press/v54/jun17a.html \[official\]]
   [https://arxiv.org/abs/1610.04578 \[arxiv\]]

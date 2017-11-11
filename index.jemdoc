@@ -38,11 +38,11 @@ Also, the cartoon caption contest of New Yorker is currently using a multi-armed
 == Selected Publications
 
 . *Scalable Generalized Linear Bandits: Online Computation and Hashing*.{{</br>
-   <font color=c36241>Kwang-Sung Jun</font>}}, Aniruddha Bhargava, Robert Nowak, and Rebecca Willett.{{</br>}}
+   <font color=c36241>Kwang-Sung Jun</font>}}, Aniruddha Bhargava, Robert Nowak, Rebecca Willett.{{</br>}}
   In Neural Information Processing Systems (*NIPS*), 2017.
   [https://arxiv.org/abs/1706.00136 \[arxiv\]]
 . *Improved Strongly Adaptive Online Learning using Coin Betting*.{{</br>
-  <font color=c36241>Kwang-Sung Jun</font>}}, Francesco Orabona, Rebecca Willett, and Stephen Wright.{{</br>}}
+  <font color=c36241>Kwang-Sung Jun</font>}}, Francesco Orabona, Stephen Wright, Rebecca Willett.{{</br>}}
   In International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2017.  {{<font color="red"><b>Oral presentation</b></font>}}.
   [http://proceedings.mlr.press/v54/jun17a.html \[official\]]
   [https://arxiv.org/abs/1610.04578 \[arxiv\]]
@@ -55,15 +55,15 @@ Also, the cartoon caption contest of New Yorker is currently using a multi-armed
   In International Conference on Machine Learning (*ICML*), 2016. 
   [http://jmlr.org/proceedings/papers/v48/jun16.pdf \[pdf\]]
 . *Top arm identification in multi-armed bandits with batch arm pulls*. {{</br>
-  <font color=c36241>Kwang-Sung Jun</font>}}, Kevin Jamieson, Rob Nowak, and Xiaojin Zhu.{{</br>}}
+  <font color=c36241>Kwang-Sung Jun</font>}}, Kevin Jamieson, Rob Nowak, Xiaojin Zhu.{{</br>}}
   In International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2016.
   [http://jmlr.org/proceedings/papers/v51/jun16-supp.pdf \[pdf\]]
 . *Human memory search as initial-visit emitting random walk*. {{</br>
-  <font color=c36241>Kwang-Sung Jun</font>}}, Xiaojin Zhu, Timothy Rogers, Zhuoran Yang, and Ming Yuan. {{</br>}}
+  <font color=c36241>Kwang-Sung Jun</font>}}, Xiaojin Zhu, Timothy Rogers, Zhuoran Yang, Ming Yuan. {{</br>}}
   In Neural Information Processing Systems (*NIPS*), 2015.
   [http://pages.cs.wisc.edu/~jerryzhu/pub/out-rw-flag.pdf \[pdf\]]
 . *Learning from Human-Generated Lists*. {{</br>
-  <font color=c36241>Kwang-Sung Jun</font>}}, Xiaojin Zhu, Burr Settles, and Timothy Rogers.{{</br>}} 
+  <font color=c36241>Kwang-Sung Jun</font>}}, Xiaojin Zhu, Burr Settles, Timothy Rogers.{{</br>}} 
   In International Conference on Machine Learning (*ICML*), 2013. 
   [http://pages.cs.wisc.edu/~jerryzhu/pub/SWIRL.pdf  \[pdf\]]
   [./data/swirl_code_data_v2.zip \[code&data\]] # TODO: let's ensure the data is here
