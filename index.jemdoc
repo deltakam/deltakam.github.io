@@ -44,6 +44,7 @@ Also, the cartoon caption contest of New Yorker is currently using a multi-armed
 . *Scalable Generalized Linear Bandits: Online Computation and Hashing*.{{</br>
    <font color=c36241>Kwang-Sung Jun</font>}}, Aniruddha Bhargava, Robert Nowak, Rebecca Willett.{{</br>}}
   In Neural Information Processing Systems (*NIPS*), 2017.
+  [http://papers.nips.cc/paper/6615-scalable-generalized-linear-bandits-online-computation-and-hashing \[official\]]
   [https://arxiv.org/abs/1706.00136 \[arxiv\]]
 . *Improved Strongly Adaptive Online Learning using Coin Betting*.{{</br>
   <font color=c36241>Kwang-Sung Jun</font>}}, Francesco Orabona, Stephen Wright, Rebecca Willett.{{</br>}}
